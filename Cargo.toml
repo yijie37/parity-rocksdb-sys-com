@@ -20,7 +20,8 @@ description = "Native bindings to librocksdb"
 readme = "README.md"
 keywords = ["ffi", "rocksdb"]
 license = "MIT/Apache-2.0/BSD-3-Clause"
-repository = "https://github.com/paritytech/rust-rocksdb.git"
+#repository = "https://github.com/paritytech/rust-rocksdb.git"
+repository = "https://github.com/yijie37/parity-rocksdb-sys-com"
 [dependencies.libc]
 version = "0.2"
 
